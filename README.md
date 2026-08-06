@@ -8,8 +8,8 @@
 
 2026-06-08@heywardshark50h.. This is a Fork of [Shubhamsaboo/awesome-llm-apps,](https://github.com/Shubhamsaboo/awesome-llm-apps)  
 Apps im using from this repository:   
-*   [🤝 AI Consultant Agent](advanced_ai_agents/single_agent_apps/ai_consultant_agent) - Market analysis and strategy recommendations with live web research
-2
+[🤝 AI Consultant Agent](advanced_ai_agents/single_agent_apps/ai_consultant_agent) - Market analysis and strategy recommendations with live web research  
+[📊 xAI Finance Agent](starter_ai_agents/xai_finance_agent/) - Real-time stock analysis powered by Grok
 
 
 # Awesome LLM Apps
