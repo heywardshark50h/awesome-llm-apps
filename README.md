@@ -6,8 +6,10 @@
 
 <div align="center">
 
-2026-06-08@heywardshark50h This is a Fork of [Awesome LLM Apps,](https://github.com/Shubhamsaboo/awesome-llm-apps)
-Current Focus:
+2026-06-08@heywardshark50h This is a Fork of [Awesome LLM Apps,](https://github.com/Shubhamsaboo/awesome-llm-apps)  
+Apps im using from this fork:  
+1
+2
 
 
 # Awesome LLM Apps
