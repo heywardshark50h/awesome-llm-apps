@@ -6,7 +6,7 @@
 
 <div align="center">
 
-2026-06-08@heywardshark50h.. This is a Fork of [Awesome LLM Apps,](https://github.com/Shubhamsaboo/awesome-llm-apps)  
+2026-06-08@heywardshark50h.. This is a Fork of [Shubhamsaboo/awesome-llm-apps,](https://github.com/Shubhamsaboo/awesome-llm-apps)  
 Apps im using from this repository:   
 *   [🤝 AI Consultant Agent](advanced_ai_agents/single_agent_apps/ai_consultant_agent) - Market analysis and strategy recommendations with live web research
 2
