@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Awesome LLM Apps
+# FORK of Awesome LLM Apps @heywardshark50h
 
 **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.**
 
